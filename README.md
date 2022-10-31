@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saitaygul
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Asp.Net Core
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me saygul3438@gmail.com
 
 <!---
